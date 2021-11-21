@@ -1,0 +1,30 @@
+.rowCard {
+  transition: 0.3s;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+.hotelsGallery {
+  margin-top: 68px;
+}
+
+.CardPadding {
+  padding-top: 20px;
+}
+
+.HotelPageCardPadding {
+  padding-top: 120px;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.hotelLinkStyle {
+  text-decoration: none;
+  color: black;
+}
