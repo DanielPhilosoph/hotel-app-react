@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DanielPhilosoph/hotel-app-react/static/css/main.1faf4272.chunk.css",
+    "main.js": "/DanielPhilosoph/hotel-app-react/static/js/main.10bff4ca.chunk.js",
+    "main.js.map": "/DanielPhilosoph/hotel-app-react/static/js/main.10bff4ca.chunk.js.map",
+    "runtime-main.js": "/DanielPhilosoph/hotel-app-react/static/js/runtime-main.1d40f5b1.js",
+    "runtime-main.js.map": "/DanielPhilosoph/hotel-app-react/static/js/runtime-main.1d40f5b1.js.map",
+    "static/css/2.383c0125.chunk.css": "/DanielPhilosoph/hotel-app-react/static/css/2.383c0125.chunk.css",
+    "static/js/2.0094b868.chunk.js": "/DanielPhilosoph/hotel-app-react/static/js/2.0094b868.chunk.js",
+    "static/js/2.0094b868.chunk.js.map": "/DanielPhilosoph/hotel-app-react/static/js/2.0094b868.chunk.js.map",
+    "index.html": "/DanielPhilosoph/hotel-app-react/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/DanielPhilosoph/hotel-app-react/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.1faf4272.chunk.css.map": "/DanielPhilosoph/hotel-app-react/static/css/main.1faf4272.chunk.css.map",
+    "static/js/2.0094b868.chunk.js.LICENSE.txt": "/DanielPhilosoph/hotel-app-react/static/js/2.0094b868.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d40f5b1.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.0094b868.chunk.js",
+    "static/css/main.1faf4272.chunk.css",
+    "static/js/main.10bff4ca.chunk.js"
+  ]
+}
