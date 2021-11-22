@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hotel-app-react/static/css/main.a1af1084.chunk.css",
-    "main.js": "/hotel-app-react/static/js/main.10bff4ca.chunk.js",
-    "main.js.map": "/hotel-app-react/static/js/main.10bff4ca.chunk.js.map",
+    "main.js": "/hotel-app-react/static/js/main.c10587f4.chunk.js",
+    "main.js.map": "/hotel-app-react/static/js/main.c10587f4.chunk.js.map",
     "runtime-main.js": "/hotel-app-react/static/js/runtime-main.95c0c036.js",
     "runtime-main.js.map": "/hotel-app-react/static/js/runtime-main.95c0c036.js.map",
     "static/css/2.383c0125.chunk.css": "/hotel-app-react/static/css/2.383c0125.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.383c0125.chunk.css",
     "static/js/2.0094b868.chunk.js",
     "static/css/main.a1af1084.chunk.css",
-    "static/js/main.10bff4ca.chunk.js"
+    "static/js/main.c10587f4.chunk.js"
   ]
 }
