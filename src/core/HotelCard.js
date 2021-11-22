@@ -3,6 +3,7 @@ import { Col, Card } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import CallButton from "./CallNowButton";
 import { kebabCase } from "../helpers/kebab";
+import img from "/images/img_avatar.png";
 
 export default class HotelCard extends React.Component {
   constructor(props) {
@@ -20,7 +21,7 @@ export default class HotelCard extends React.Component {
               pathname: `/hotel/${encodeURI(kebabCase(this.props.name))}`,
             }}
           >
-            <Card.Img variant="top" src="/images/img_avatar.png" />
+            <Card.Img variant="top" src={img} />
             <Card.Body>
               <Card.Title>{this.props.name}</Card.Title>
               <Card.Text className="align-right">
